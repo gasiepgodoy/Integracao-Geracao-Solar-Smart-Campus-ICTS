@@ -13,7 +13,7 @@ Esse repositório contém o código utilizado para o projeto referido no título
 
 A aplicação consiste no uso de um Raspberry Pie Zero W para obter as informações coletadas pelo inversor Huawei SUN2000. A comunicação entre o inversor e o sistema embarcado é feita por Modbus RTU RS485 e o envio das informações do sistema embarcado para o armazenamento dos dados utiliza o protocolo MQTT.
 
-![My Image](docs/diagrama_estrutura_projeto_para_grafana.png)
+![My Image](src/docs/diagrama_estrutura_projeto_para_grafana.png)
 
 ## Referências
 
