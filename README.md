@@ -38,7 +38,7 @@ Para iniciar os containers e a aplicação, basta utilizar as seguintes linhas d
 
 `sudo docker compose up -d`
 
-### 3) Configurando containers
+### 4) Configurando containers
 
 Para garantir que o container ira reiniciar o código quando cair:
 
