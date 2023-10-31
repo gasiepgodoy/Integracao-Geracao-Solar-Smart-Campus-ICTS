@@ -18,7 +18,11 @@ A aplicação consiste no uso de um Raspberry Pie Zero W para obter as informaç
 
 ## Tutorial de uso
 
-Segue o passo-a-passo básico para utilizar o código desenvolvido.
+Segue o passo-a-passo básico para utilizar o código desenvolvido. 
+
+Docker-hub
+tag 0.0.1 OS Raspios lite buster
+tag 0.0.4 OS Raspios lite bullseye
 
 ### 1) Copie o repositório
 
