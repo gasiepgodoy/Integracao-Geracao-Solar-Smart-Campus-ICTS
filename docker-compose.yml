@@ -4,7 +4,7 @@ services:
   huawei-solar-rtu:
     container_name: huawei-solar-rtu-v4
     restart: always
-    image: gasiepgodoy/integracao-geracao-solar:v0.0.4
+    image: gasiepgodoy/integracao-geracao-solar:0.0.4
     user: root
     privileged: true
     devices:
