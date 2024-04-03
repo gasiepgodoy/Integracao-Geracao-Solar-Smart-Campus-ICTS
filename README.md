@@ -9,7 +9,7 @@ Orientador: Prof. Dr. Eduardo Paciência Godoy
 
 ## Apresentação
 
-Esse repositório contém o código utilizado para o projeto referido no título. Segue link para o [relatório](https://repositorio.unesp.br/).
+Esse repositório contém o código utilizado para o projeto referido no título. Segue link para o [relatório](https://repositorio.unesp.br/handle/11449/239575).
 
 A aplicação consiste no uso de um Raspberry Pie Zero W para obter as informações coletadas pelo inversor Huawei SUN2000. A comunicação entre o inversor e o sistema embarcado é feita por Modbus RTU RS485 e o envio das informações do sistema embarcado para o armazenamento dos dados utiliza o protocolo MQTT.
 
@@ -26,7 +26,7 @@ tag 0.0.4 OS Raspios lite bullseye
 
 ### 1) Copie o repositório
 
-Clone o repositório para o hardware onde será instalado, levando em consideração as correções para que funcione de acordo com o presentes no [relatório](https://repositorio.unesp.br/).
+Clone o repositório para o hardware onde será instalado, levando em consideração as correções para que funcione de acordo com o presentes no [relatório](https://repositorio.unesp.br/handle/11449/239575).
 
 `git clone https://github.com/gasiepgodoy/integracao-geracao-solar.git`
 
